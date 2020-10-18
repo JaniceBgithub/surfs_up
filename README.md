@@ -21,3 +21,18 @@ The key results are:
 - December has more precipitation versus June 
 - The weather is overall better in June for a surf shop!
 
+## Summary and Additional Analysis
+
+Summary: There are not huge differences in June versus December weather and weather in Hawaii seems to be generally pretty consistent throughout the year, go ahead and open the surf shop!!!
+
+Some additional analysis were completed to see how the weather changed from year to year: 
+
+Average June temperature by year was plotted:
+
+![June_line](https://github.com/JaniceBgithub/surfs_up/blob/main/Resources/June_temp_line_plot.png)
+
+Average December temperature by year was plotted: 
+
+![Dec_line](https://github.com/JaniceBgithub/surfs_up/blob/main/Resources/Dec_temp_line_plot.png)
+
+
