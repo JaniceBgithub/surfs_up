@@ -5,4 +5,5 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## Results
 
-![June_temp](
+![June_temp](https://github.com/JaniceBgithub/surfs_up/blob/main/Resources/June_temperature.png)
+
