@@ -14,3 +14,10 @@ December temperature and precipitation results are summarized:
 
 ![Dec_temp](https://github.com/JaniceBgithub/surfs_up/blob/main/Resources/Dec_temp.png)
 
+The key results are: 
+
+- June is about 4 degrees warmer than December
+- June weather is more consistent versus Decmeber with a lower temperature standard deviation
+- December has more precipitation versus June 
+- The weather is overall better in June for a surf shop!
+
