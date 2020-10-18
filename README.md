@@ -5,5 +5,12 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## Results
 
+June temperature and precipitation results are summarized: 
+
 ![June_temp](https://github.com/JaniceBgithub/surfs_up/blob/main/Resources/June_temperature.png)
+
+
+December temperature and precipitation results are summarized: 
+
+![Dec_temp](https://github.com/JaniceBgithub/surfs_up/blob/main/Resources/Dec_temp.png)
 
